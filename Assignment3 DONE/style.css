@@ -1,0 +1,97 @@
+a:link, a:visited	{text-decoration:none;color:#2554c7;}
+
+a:hover		{text-decoration:underline;color:#3bb9ff;}
+
+a:active	{color:#ffffff;text-decoration:underline;}
+
+
+
+body 		{	margin-left:250px;
+				width:1024px;
+				background-color:black;
+				font-family:"Calibri",Times,serif;
+				color:white;
+			}
+
+div#google	{position:absolute;
+			left:925px;
+			top:13px;
+			}
+			
+h1			{	color: white;
+			}
+
+h2			{	color: white;
+			}
+
+h3			{	color: white;
+			}
+
+h4			{	color: white;
+			}
+
+h5			{	color: white;
+			}
+
+p			{	color:white;
+			}
+
+div#main		{	}
+
+div#top		{	background-image:url('images/hkskyline.png');
+				height:128px;
+				padding:20px;
+			}
+
+div#middle	{	margin-top:0px;
+				min-height:900px;
+			}
+			
+div#smoothmenu1	{}
+
+div#smoothmenu2	{float:left;}
+
+div#related		{position:absolute;
+				left:250px;
+				top:650px;
+				width:150px;
+				border-style:solid;
+				border-color:white;
+				padding:10px;}
+
+div#bottom	{	margin-top: 20px;
+				width:1024px;
+				float:left;
+				text-align: center;
+				border-top: 1px solid #203172;
+			}
+
+div#sidebar	{	float:left;
+				width:180px;
+			}
+	
+.related ul	{	color:white;
+				}					
+							
+div#content	{	color:white;
+				float:left;
+				width:720px;
+				margin-left:100px;
+				
+			}
+			
+table			{border-style:inset
+			}
+			
+div#contactdetail	{margin-left:150px;
+					}
+					
+div#comment			{margin-left:150px;
+					}
+					
+div#paragraph		{float:left;
+					width:400px;
+					margin:20px;}
+
+div#homepic			{float:left;
+					margin:20px;}

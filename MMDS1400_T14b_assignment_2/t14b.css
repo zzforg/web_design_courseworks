@@ -1,0 +1,21 @@
+div#navi 		{border:solid 1px;
+				text-align:center;
+				height:20px;
+				padding:10px;
+				margin:5px;}
+
+div#sidenavi		{border:solid 1px;
+				width:200px;
+				margin:5px;
+				float:left;
+				}
+				
+div#main 		{border:1px solid;
+				float:left;
+				margin:5px;
+				padding:10px;
+				}
+				
+p			 	{font-size:0.875em;}
+
+body 			{background-color:#72bdd3;}
